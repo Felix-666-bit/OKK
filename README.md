@@ -1,2 +1,3 @@
-# OKK
-南京工业大学OKK小组
+# This file includes the templates for the Information Technology assignments.
+Name:Tian Yu Gu
+Number:X00218048
